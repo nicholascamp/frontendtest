@@ -16,7 +16,7 @@ Depois, rode a aplicação:
 
 No seu navegador, abra `http://localhost:7007`
 
-Desenvolva dentro da pasta **www**.
+Desenvolva dentro da pasta **www**. Se quiser mudar a estrutura de pastas e arquivos, fique à vontade.
 
 # Instruções para o desenvolvimento
 
